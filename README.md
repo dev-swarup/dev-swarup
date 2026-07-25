@@ -19,7 +19,7 @@ Systems-level engineer focused on **performance-critical software** — from nat
 <tr>
 <td width="50%" valign="top">
 
-**🔑 [SENTEINL](https://senteinl.com)**
+**🔑 [Senteinl](https://senteinl.com)**
 <br>
 
 Licensing & authentication framework
