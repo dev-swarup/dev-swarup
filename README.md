@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-Building%20at%20the%20edge-00FFCC?style=for-the-badge&labelColor=111111" />
-
-</div>
-
 Systems-level engineer focused on **performance-critical software** — from native C++ engines and memory manipulation to cloud-deployed backend infrastructure. I like problems that sit close to the metal: API hooking, runtime memory, concurrency, and the complex DevOps plumbing that makes distributed systems fast and reliable at scale.
 
 - 🔧 Building infrastructure, proxy networks, and advanced automation workflows
