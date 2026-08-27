@@ -68,5 +68,3 @@ Senior Engineer focused on **performance-critical software** — from native C++
 
 - **NMiner** — Custom mining utility application. Led the v1.3.0 rollout with a strong focus on performance fixes.
 - **Production Security Response** — Investigated and remediated a live ransomware-style database attack on an unauthenticated MongoDB collection, restoring integrity and hardening access controls.
-
----
