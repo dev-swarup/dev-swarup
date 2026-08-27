@@ -1,9 +1,11 @@
-Systems-level engineer focused on **performance-critical software** — from native C++ engines and memory manipulation to cloud-deployed backend infrastructure. I like problems that sit close to the metal: API hooking, runtime memory, concurrency, and the complex DevOps plumbing that makes distributed systems fast and reliable at scale.
+Senior Engineer focused on **performance-critical software** — from native C++ engines and low-level memory work to distributed, cloud-deployed backend infrastructure. I like problems that sit close to the metal: API hooking, runtime memory, concurrency, database engineering, and the DevOps plumbing that keeps distributed systems fast and reliable at scale.
 
 - 🔧 Building infrastructure, proxy networks, and advanced automation workflows
 - ⚙️ Deeply comfortable across the stack: native C++/C#, Node.js/Bun, and multi-region cloud deployment
 - 🔐 Focused on system internals — memory manipulation, bypassing, and runtime hooking
+- 🗄️ Strong background in database engineering, clustering, and security configuration (MongoDB, Redis)
 - ☁️ Operating highly available infrastructure across AWS, GCP, Azure, and Fly.io with Docker-based DevOps pipelines
+- 🛡️ Hands-on incident response experience — investigating and remediating live production security incidents
 
 ---
 
@@ -21,6 +23,9 @@ Systems-level engineer focused on **performance-critical software** — from nat
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ScyllaDB](https://img.shields.io/badge/ScyllaDB-45C2AB?style=for-the-badge&logo=scylladb&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
@@ -51,8 +56,17 @@ Systems-level engineer focused on **performance-critical software** — from nat
 
 - **Systems Internals & Modding** — Deep expertise in memory API internals, dynamic DLL injection, runtime hooking (`MinHook`), and custom `ImGui` overlay rendering for performance-critical applications and game modifications.
 - **Android Engineering & Bypass** — Advanced Android system modification, emulation bypass techniques, Magisk/Zygisk module architecture, system property spoofing, and system-level CA certificate deployments.
-- **DevOps & Cloud Infrastructure** — End-to-end DevOps lifecycle management, multi-region containerized deployments (Docker), cross-region database replication, and scaling low-latency infrastructure across AWS, GCP, and Fly.io.
+- **Database & Backend Engineering** — Building and maintaining performance-heavy applications with Node.js and Bun, including multi-threaded optimization, MongoDB/Redis/ScyllaDB clustering, and security-hardened database configuration.
+- **DevOps & Cloud Infrastructure** — End-to-end DevOps lifecycle management, multi-region containerized deployments (Docker), cross-region database replication, and scaling low-latency infrastructure across AWS, GCP, Azure, and Fly.io.
 - **Cryptographic Protocols & Mining** — Custom hashing engine optimization (RandomX) and protocol design for distributed, highly concurrent mining pools and proxies.
-- **Security & Vulnerability Research** — Bug hunting, runtime vulnerability research, and environment hardening applied across web, native, and cloud-deployed systems.
+- **Security & Vulnerability Research** — Bug hunting, runtime vulnerability research, and environment hardening applied across web, native, and cloud-deployed systems. Experienced in live incident response, including investigating and remediating an unauthenticated database wipe/ransom attack.
+- **Applied Machine Learning** — Designing ML-driven signal models for automated trading systems, with a strong testnet-first, risk-aware approach to deployment.
+
+---
+
+### ▒ PROJECT HIGHLIGHTS
+
+- **NMiner** — Custom mining utility application. Led the v1.3.0 rollout with a strong focus on performance fixes.
+- **Production Security Response** — Investigated and remediated a live ransomware-style database attack on an unauthenticated MongoDB collection, restoring integrity and hardening access controls.
 
 ---
